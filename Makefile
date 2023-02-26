@@ -83,6 +83,7 @@ endif
 		-border 5 $@
 	$(OPTIPNG) $@
 
+
 # Public targets
 .PHONY: init
 init:
